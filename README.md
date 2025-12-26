@@ -1,6 +1,6 @@
 # Unit Converter
 
-Solo project from Scrimba's Fullstack Path.
+Solo project from JavaScript Fundamentals on Scrimba's Fullstack Path.
 
 ![application screenshot](/images/unit-converter.png)
 
